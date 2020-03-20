@@ -10,6 +10,6 @@ You can download SnakeTheGame.jar file and try it out.
 
 ### Screenshots:
 
-![Screenshot](https://github.com/jserweta/SnakeGameProject/edit/master/1.png)
+![Screenshot](https://github.com/jserweta/SnakeGameProject/blob/master/1.png)
 
-![Screenshot](https://github.com/jserweta/SnakeGameProject/edit/master/2.png)
+![Screenshot](https://github.com/jserweta/SnakeGameProject/blob/master/2.png)
